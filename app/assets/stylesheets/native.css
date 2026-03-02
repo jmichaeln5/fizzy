@@ -100,10 +100,6 @@
       overscroll-behavior: auto;
     }
 
-    .search__input::-webkit-search-cancel-button {
-      display: inline-block;
-    }
-
     .search__title {
       text-decoration: none;
     }
